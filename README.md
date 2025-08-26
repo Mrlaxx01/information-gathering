@@ -9,11 +9,11 @@ Features:
 
 1. Clone this repository:
     bash
-    git clone https://github.com/Mrlaxx01/information-gathering.git
+    git clone https://github.com/kaito-la/information-gathering.git
     cd information-gathering
 
-2. Install dependencie:
+3. Install dependencie:
     pip install requests
 
-3. Run the script:
+4. Run the script:
     python main.py
